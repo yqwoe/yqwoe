@@ -1,6 +1,5 @@
 # About me
 Hi, I'm **Wu** !
----
 
 ```ruby
 class Live
